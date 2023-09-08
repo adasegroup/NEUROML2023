@@ -20,9 +20,9 @@ This course is specifically aimed at MSc and PhD students with basic knowledge o
 
 * SEMINAR 0 (05.09) Intro
  
-* SEMINAR 1 (09.09, 12.09) EEG analysis, Machine Learning in EEG
+* SEMINAR 1 (08.09, 12.09) EEG analysis, Machine Learning in EEG
 
-* SEMINAR 2 (16.09) MRI data analysis, sources, databases, tools \
+* SEMINAR 2 (15.09) MRI data analysis, sources, databases, tools \
   **Note**: To Follow seminar you will need [docker](https://docs.docker.com/get-docker/) installed and supplementary data downloaded
   1) Install Docker;
   2) Download `NEUROML-data.zip` from [YaDisk](https://disk.yandex.ru/d/xxnRbLetEh07YQ) and unzip it to local directory;
@@ -36,7 +36,7 @@ This course is specifically aimed at MSc and PhD students with basic knowledge o
      
 * SEMINAR 3 (19.09) Machine Learning for structural MRI data analysis 
 
-* SEMINAR 4 (23.09) fMRI data preprocessing, analysis, GLM
+* SEMINAR 4 (22.09) fMRI data preprocessing, analysis, GLM
 
   1) First follow the instruction for geting the docker image: https://miykael.github.io/nipype_tutorial/notebooks/introduction_docker.html.
   2) Clone the seminar4 repository
@@ -45,7 +45,7 @@ This course is specifically aimed at MSc and PhD students with basic knowledge o
   
 * SEMINAR 5 (26.09) Functional connectivity analysis and Machine Learning modelling
 
-* SEMINAR 6 (30.09) Deep Learning models and fMRI data analysis
+* SEMINAR 6 (29.09) Deep Learning models and fMRI data analysis
 
 * SEMINAR 7 (03.10) Interpretation of ML models
 
