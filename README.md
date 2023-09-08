@@ -1,15 +1,15 @@
-# NEUROML2022
+# NEUROML2023
 
 
 
 ## Neuroimaging and Machine Learning for Biomedicine
-This is a repository containing seminars and lecture materials for the Skoltech course on Machine Learning in Neuroimaging data, Fall 2022.
+This is a repository containing seminars and lecture materials for the Skoltech course on Machine Learning in Neuroimaging data, Fall 2023.
 
 ## Main links
 
-- [📄 Syllabus](https://skoltech.instructure.com/courses/4015/assignments/syllabus)
+- [📄 Syllabus](https://skoltech.instructure.com/courses/4600/assignments/syllabus)
 - [:cupid: Lab Page](http://adase.group/neuro/)
-- [✈️ Telegram Channel](https://t.me/+oW-h-Baqw1k5ZTM6)
+- [✈️ Telegram Channel](https://t.me/+reSVkuG38CJmZGEy)
 
 
 ## Course description:
